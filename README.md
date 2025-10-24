@@ -17,7 +17,4 @@ Autori:
 - Antonio Marselli
 - Federica Mele  
 
-Informazioni tecniche
-**Linguaggio:** Java  
-**Librerie utilizzate:** Swing / JavaFX  
 **Descrizione:** Sistema di gestione del personale e dei progetti aziendali, con ruoli (junior, middle, senior, dirigente), laboratori e progetti gestiti tramite GUI e database relazionale.
