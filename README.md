@@ -8,10 +8,10 @@ Documentazione:
 - [Documentazione in formato PDF](./DocumentazioneObjectOrientation.pdf)
 
 :Codice sorgente
-- [Scarica il codice sorgente in formato ZIP](https://github.com/<tuo-username>/<repo>/archive/refs/heads/main.zip)
+- [Scarica il codice sorgente in formato ZIP](https://github.com/AntonioMarselli/Object-Orientation-Project/archive/refs/heads/main.zip)
 
 :Repository pubblico
-- [Visualizza il repository su GitHub](https://github.com/<tuo-username>/<repo>)
+- [Visualizza il repository su GitHub](https://github.com/AntonioMarselli/Object-Orientation-Project)
 
 Autori:
 - Antonio Marselli
